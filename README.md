@@ -49,7 +49,7 @@ A responsive website providing information about independently developed applica
 | Documentation & Accessibility | Section 508, accessible documents, SOPs, knowledge bases, user guides |
 | Development | HTML, CSS, Python fundamentals, TypeScript, React Native, Expo |
 | Development Tools | VS Code, Git, GitHub, command-line tools, AI-assisted development |
-| Support Platforms | Zendesk, Cherwell, SharePoint |
+| Support Platforms | Jira, Zendesk, Cherwell, SharePoint, Microsoft 365, Google Workspace, TeamDynamix |
 
 ## Current Focus
 
