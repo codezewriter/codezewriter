@@ -2,11 +2,11 @@
 
 ### Technical Support | Application Support | Technical Writing | AI-Assisted Development
 
-IT professional with **10+ years of experience** supporting users, troubleshooting technical issues, maintaining documentation, and improving technology-driven workflows.
+IT professional with **10+ years of combined experience in Education Technology (EdTech), Healthcare IT (Health IT/HIT), and enterprise technical support**.
 
-My background includes enterprise IT support, data center hardware support, application troubleshooting, user account administration, website testing, and Section 508 document accessibility.
+My background includes K–12 and higher education IT support, data center hardware troubleshooting, learning management systems (LMS), application support, user account administration, functional testing/UAT, technical documentation, and Section 508 accessibility. I also bring familiarity with healthcare quality reporting workflows and HIPAA privacy and security principles.
 
-Alongside my professional work, I build practical software applications and use AI-assisted development tools to accelerate learning, troubleshooting, and product development.
+Alongside my professional work, I build practical software applications and use AI-assisted development tools to accelerate learning, troubleshooting, debugging, and product development.
 
 **Based in Dallas, Texas | Seeking Remote Opportunities**
 
@@ -14,7 +14,9 @@ Alongside my professional work, I build practical software applications and use 
 
 ## Professional Expertise
 
-- **Technical & IT Support:** Tier 1/2 troubleshooting, hardware and software support, ticket management, incident resolution, and end-user assistance.
+- **Education Technology (EdTech):** K–12 and higher education IT support, classroom and instructional technology, LMS troubleshooting, endpoint support, and data center operations.
+- **Healthcare IT (Health IT/HIT):** Technical and application support for patient safety reporting systems, user administration, and knowledge of HIPAA privacy and security principles.
+- **Technical & IT Support:** Troubleshooting, hardware and software support, ticket management, incident resolution, and end-user assistance.
 - **Application Support:** Application troubleshooting, user account administration, website testing, UAT, and issue documentation.
 - **Technical Writing:** SOPs, user guides, knowledge base articles, technical documentation, and Section 508 accessibility remediation.
 - **Enterprise IT Operations:** Data center hardware support, device deployments, technical coordination, and service delivery.
