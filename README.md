@@ -52,6 +52,7 @@ A responsive website providing information about independently developed applica
 | Development | HTML, CSS, Python fundamentals, TypeScript, React Native, Expo |
 | Development Tools | VS Code, Git, GitHub, command-line tools, AI-assisted development |
 | Support Platforms | Jira, Zendesk, Cherwell, SharePoint, Microsoft 365, Google Workspace, TeamDynamix |
+| Stakeholder & Communication | Stakeholder Engagement, Consultative Communication, Requirements Gathering, Cross-Functional Collaboration, Executive Reporting |
 
 ## Current Focus
 
